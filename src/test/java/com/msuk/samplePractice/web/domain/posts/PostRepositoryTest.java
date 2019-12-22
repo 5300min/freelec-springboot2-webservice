@@ -32,7 +32,7 @@ public class PostRepositoryTest {
 
         /* 쿼리로 보고싶다면 src/main/resource 디렉토리 아래에 application.properties 파일을 생성하여 아래와 같이 설정한다.
         * spring.jpa.show_sql=true;
-        * 설정 후 콘솔에서 쿼리를 확인할 수 있따.
+        * 설정 후 콘솔에서 쿼리를 확인할 수 있다.
         *  */
 
         // given
